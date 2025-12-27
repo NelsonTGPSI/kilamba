@@ -14,7 +14,7 @@ const pillars = [
     id: '02',
     title: 'Piscina',
     label: 'Refresco e Relaxamento',
-    description: 'Piscina privativa para momentos de lazer e relaxamento, perfeita para dias quentes em Angola.',
+    description: 'Piscina privativa para momentos de lazer e relaxamento ao ar livre, perfeita para dias quentes em Angola.',
     image: 'img/piscina.jpeg'
   },
   {

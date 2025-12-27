@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
           className="max-w-xl mx-auto"
         >
           <p className="text-[#FDFBF7]/90 text-sm md:text-base font-light tracking-wide mb-12 leading-loose">
-            Localizada na Cidade do Kilamba. Uma casa com 6 quartos suites espaçosos, duas salas acolhedoras climatizadas, piscina, cozinha equipada, quintal encantador e internet de alta velocidade.<br />
+            Localizada na Cidade do Kilamba, condomínio Kilamba conforto. Uma casa com 6 quartos suites espaçosos, duas salas acolhedoras climatizadas, piscina, cozinha equipada, quintal encantador e internet de alta velocidade.<br />
             <span className="font-semibold text-[#D4C3A1] text-lg">Diária a partir de 40.000 Kz por quarto</span>
           </p>
           <button className="group relative overflow-hidden px-12 py-5 border border-[#FDFBF7]/40 text-[#FDFBF7] uppercase tracking-[0.3em] text-[9px] transition-all duration-700">
